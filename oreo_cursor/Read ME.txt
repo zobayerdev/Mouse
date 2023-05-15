@@ -1,0 +1,19 @@
+Oreo Cursors is part of Libre Artwork (Icons, Cursors, Wallpapers)
+
+For windows users each folder contains an install.inf file to help out.
+Right Click on the install.inf file and select Install from the Right Click Menu
+
+This is a port of the Linux Iconset Oreo Cursors
+https://www.gnome-look.org/p/1360254/
+
+Original author x-varlesh-x
+https://www.pling.com/u/x-varlesh-x/
+Github
+Alexey Varfolomeev
+https://github.com/varlesh
+
+Ported by niivu
+https://www.deviantart.com/niivu
+
+Enjoy!
+-niivu
